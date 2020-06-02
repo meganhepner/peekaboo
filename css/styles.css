@@ -8,7 +8,7 @@
 .clickable:hover {
   text-decoration: underline;
 }
-.lorem {
+.lorem-fade {
   cursor: pointer; 
   color: red;
 }
