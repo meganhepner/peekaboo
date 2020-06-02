@@ -5,7 +5,12 @@
   cursor: pointer;
   color: #0088cc;
 }
-
-clickable:hover {
+.clickable:hover {
   text-decoration: underline;
 }
+.lorem {
+  cursor: pointer; 
+  color: red;
+}
+.lorem:hover {
+  text-decoration: underline;
